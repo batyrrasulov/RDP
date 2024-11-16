@@ -72,19 +72,3 @@ The primary goal of **GCU Connect** is to enhance engagement and communication w
 
 - **Stronger Sense of Community**:  
   By connecting users on both academic and social levels, GCU Connect will create a more cohesive and involved campus environment.
-
-## How to Contribute
-
-We welcome contributions to **GCU Connect** from students, faculty, and developers. If you're interested in contributing to the project, here's how you can get started:
-
-1. Fork the repository.
-2. Clone your fork to your local machine.
-3. Create a new branch for your feature or fix.
-4. Make your changes and commit them.
-5. Push your changes to your fork and submit a pull request.
-
-Please feel free to submit bug reports, feature requests, or general suggestions via GitHub Issues.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
